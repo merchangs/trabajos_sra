@@ -6,3 +6,4 @@
 * [Tarjetas](https://merchangs.github.io/tarjetas/)
 * [Grid Moma](https://merchangs.github.io/gridmoma/)
 * [Mondrian](https://merchangs.github.io/mondrian/)
+* [Minimalissimo](https://merchangs.github.io/grid_areas/)
