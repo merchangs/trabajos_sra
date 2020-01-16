@@ -6,5 +6,5 @@
 * [Tarjetas](https://merchangs.github.io/tarjetas/)
 * [Grid Moma](https://merchangs.github.io/gridmoma/)
 * [Mondrian](https://merchangs.github.io/mondrian/)
-* [Transformación y transición](https://merchangs.github.io/trans/)
+
 * [Minimalissimo](https://merchangs.github.io/grid_areas/)
